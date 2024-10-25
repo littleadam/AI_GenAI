@@ -1,0 +1,37 @@
+Asunto: Reporte de Problemas T�cnicos - Funcionalidad del Panel SAAS
+
+Estimado Equipo de Soporte al Cliente,
+
+Espero que este mensaje les encuentre bien. Les escribo para informarles sobre un problema t�cnico que he encontrado mientras utilizo su producto de panel SAAS. Como cliente leal, aprecio el valor que su producto aporta a mi negocio, pero actualmente me enfrento a un desaf�o que requiere su experiencia.
+
+Me gustar�a describir detalladamente el problema que estoy experimentando:
+
+1. Problema Gr�fico: Al iniciar sesi�n en el panel SAAS, he notado que los gr�ficos y las tablas en la p�gina principal del panel no se renderizan correctamente. Los puntos de datos aparecen distorsionados y algunos elementos se superponen, lo que dificulta la interpretaci�n precisa de la informaci�n.
+
+2. Fallo en la Funci�n de Exportaci�n: Adem�s, no he podido exportar informes y datos desde el panel. Cada vez que intento exportar un informe en formato CSV o PDF, recibo un mensaje de error que indica que la exportaci�n ha fallado. Esta funcionalidad es crucial para compartir informaci�n con mi equipo y partes interesadas externas, por lo que es imperativo que se resuelva r�pidamente.
+
+3. Lentitud en la Carga: Durante la �ltima semana, he notado una disminuci�n significativa en la velocidad de carga del panel SAAS. Las p�ginas tardan un tiempo inusualmente largo en cargarse, lo que afecta mi productividad y genera frustraci�n. Tengo una conexi�n a internet confiable, por lo que creo que el problema radica en el panel mismo.
+
+Ya he realizado los siguientes pasos para solucionar el problema:
+
+1. Limpieza de Cache: Limpi� la memoria cach� y las cookies de mi navegador para asegurarme de que los datos desactualizados no est�n causando conflictos. Sin embargo, los problemas persisten incluso despu�s de realizar esta acci�n.
+
+2. Varios Navegadores: Prob� el panel SAAS en diferentes navegadores web (Chrome, Firefox y Safari) para determinar si el problema era espec�fico del navegador. Desafortunadamente, los problemas gr�ficos, los fallos en la exportaci�n y la lentitud en la carga persistieron en todos los navegadores.
+
+Les solicito amablemente su ayuda para resolver estos problemas, ya que est�n obstaculizando mi capacidad de aprovechar todo el potencial de su panel SAAS. Aqu� est�n las acciones espec�ficas que agradecer�a:
+
+1. Soluci�n para Problemas Gr�ficos: Por favor, investiguen y corrijan los problemas gr�ficos presentes en la p�gina principal del panel para garantizar una visualizaci�n precisa de los datos.
+
+2. Soluci�n para la Funci�n de Exportaci�n: Identifiquen y solucionen el problema con la exportaci�n de informes en formatos CSV y PDF, permiti�ndome compartir datos con mi equipo y partes interesadas de manera fluida.
+
+3. Optimizaci�n del Rendimiento: Por favor, aborden la lentitud en la carga del panel SAAS para mejorar la experiencia general del usuario y aumentar la productividad.
+
+Entiendo que los problemas t�cnicos pueden surgir de vez en cuando y aprecio su pronta atenci�n a este asunto. Si requieren informaci�n adicional o ayuda de mi parte, no duden en contactarme. Espero su pronta respuesta y una pronta resoluci�n a estos desaf�os.
+
+Gracias por su comprensi�n y apoyo.
+
+Atentamente,
+
+Mar�a Rodr�guez
+ID de Cliente: 123456789
+Informaci�n de la Cuenta: Empresa Ejemplo S.A.
