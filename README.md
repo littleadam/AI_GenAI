@@ -1,4 +1,4 @@
-This space contains all the AI works from me.
+This space contains all the AI works from me , including RAG, Fine-tuning, prompt engineering, Transformers,word to vec etc.
 
 I will create a seperate repository for machine learning.
 
